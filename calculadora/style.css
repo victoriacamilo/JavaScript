@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2014/01/29/20/32/tablet-254581__340.jpg);
+    background-color: #000000;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    text-align: center;
+    font: normal 15pt arial;
+    color: white;
+}
+input {
+    font: normal 15pt arial;
+    max-width: 150px;
+    margin-top: 20px;
+    
+}
+.botão{
+    max-width: 100px;
+    margin: 50px;
+}
+.botão:hover{
+    background-color: gray;
+}
+
+div#res {
+    margin-top: 20px;
+    color: black;
+    
+}
